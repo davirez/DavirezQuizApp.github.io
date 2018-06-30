@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">Davirez Quiz App</string>
+    <string name="brain_teaser">Brain Teaser</string>
+
+    <!--question one-->
+    <string name="question_1">What is the full meaning of ALC?</string>
+
+    <!--question two and options-->
+    <string name="question_2">Google was founded in what year?</string>
+    <string name="question2A">1998</string>
+    <string name="question2B">1978</string>
+    <string name="question2C">1960</string>
+    <string name="question2D">1996</string>
+
+    <!--question three and options-->
+    <string name="question_3">Google was founded by _____ and _____?</string>
+    <string name="question3A">Donald Ormah</string>
+    <string name="question3B">Larry Page</string>
+    <string name="question3C">Sergey Brin</string>
+    <string name="question3D">Bill Gate</string>
+
+    <!--question four and options-->
+    <string name="question_4">What is Android version 7.0 called?</string>
+
+    <!--question five and options-->
+    <string name="question_5">Android is a mobile Operating System developed by?</string>
+    <string name="question5A">IOS</string>
+    <string name="question5B">Windows</string>
+    <string name="question5C">Apple</string>
+    <string name="question5D">Google</string>
+
+    <!--question six and options-->
+    <string name="question_6">what are the android versions available on our android devices?</string>
+    <string name="question6A">4.5 Candycrush</string>
+    <string name="question6B">5.0 Lollipop</string>
+    <string name="question6C">6.0 Strawberry</string>
+    <string name="question6D">2.0 Eclair</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">reset</string>
+
+</resources>
